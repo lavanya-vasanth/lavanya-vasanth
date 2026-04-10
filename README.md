@@ -8,7 +8,7 @@ I am a Computer Science (AI & ML) student passionate about building real-world w
 
 ## 👨‍💻 About Me
 
-* 🎓 B.E CSE (AI & ML) student at Sri Eshwar College of Engineering
+* 🎓 B.E CCE student at Sri Eshwar College of Engineering
 * 💻 MERN Stack Intern at Better Tomorrow
 * 🌐 Modern Full Stack Intern at Algo Tutor
 * 🧠 Interested in Web Development, AI, and IoT Systems
@@ -97,13 +97,13 @@ I am a Computer Science (AI & ML) student passionate about building real-world w
 
 ## 💻 Coding Profiles
 
-* LeetCode — 100+ problems (Rating: 1485)
-* CodeChef — 250+ problems (Rating: 946)
-* SkillRack — 300+ problems
+* LeetCode — 250+ problems (Rating: 1485)
+* CodeChef — 300+ problems (Rating: 946)
+* SkillRack — 400+ problems
 
 ---
 
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/lavanya-vasanth
-* Email: [lavanyavasanth60@gmail.com](mailto:lavanyavasanth60@gmail.com)
+* Email: [lavanya.v2023cce@sece.ac.in](mailto:lavanya.v2023cce@sece.ac.in)
