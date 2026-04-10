@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | AI Enthusiast**
 
-I am a Computer Science (AI & ML) student passionate about building real-world web applications and exploring AI systems.
+I am a Computer and communication Engineering (CCE) student passionate about building real-world web applications and exploring AI systems.
 
 ---
 
